@@ -1,0 +1,78 @@
+
+h1 {
+  background-color: purple; 
+  opacity: 0.3;
+  color: grey;
+  text-align: centre;
+}
+
+h1 {
+  border-style: double;
+  border-width: 5px;
+  border-color: black;
+}
+  
+h2 {
+  font-family: Monaco, "Courier New", "Lucida Console";
+}
+   
+
+.p-color {
+  text-align: centre;
+  color: purple;
+}
+
+.mydiv {
+      margin: auto;
+      width: 300px;
+      position: absolute;
+      top: 50%;
+      transform: translate(-25,-25);
+      left: 10%;
+}
+
+.thediv {
+      margin: auto;
+      width: 1000px;
+      position: absolute;
+      top: 65%;
+      transform: translate(-25,-25);
+      left: 10%;
+}
+
+.udiv {
+      margin: auto;
+      width: 1000px;
+      position: absolute;
+      top: 75%;
+      transform: translate(-25,-25);
+      left: 10%;
+}
+
+.nowdiv {
+      margin: auto;
+      width: 1000px;
+      position: absolute;
+      top: 85%;
+      transform: translate(-25,-25);
+      left: 10%;
+}
+
+
+.movediv {
+      margin: auto;
+      width: 200px;
+      position: absolute;
+      top: 65%;
+      transform: translate(-25,-25);
+      left: 70%;
+}
+
+
+p {
+  text-align: centre;
+}
+
+
+
+

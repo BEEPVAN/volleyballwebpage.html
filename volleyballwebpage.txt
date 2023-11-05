@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Volleyball Webpage</title>
+<link rel="stylesheet" href"style.css">
+</head>
+<body>
+<img src="volleyball.jpg" height="600" width="1000">
+
+<h1>The Sixth Form Volleyball Club</h1>
+<p>Welcome! join the amazing experience of volleyball club no matter how experienced you are as the club provides teaching as you go along your journey</p>
+<h2> why you should join the volleyball club</h2>
+<p>
+Interesting in volleyball?Come join the volleyball club at sixth form! Worried that you don't have enough experience? Do not worry, the volleyball club is all about learning and improving. Additionally, the volleyball club emphasises the importance of a team and your team members will welcome and help you throughout your journey.
+</p>
+<p>
+The volleyball club also includes a volleyball team, where there is a volleyball girls team and a volleyballs boys team. This means if you want to competitively play volleyball, the team is for you, where you will be playing in matches. However if you would just like to play volleyball for fun then there is also the club. These will be held on Wednesdays, after lunch period, so if you have a free period, join!
+</p>
+<p>
+Joining the volleyball club/team will be the best choice! Not only do you get to create amazing memories with your team members you can also make new friends and get to know more people. In addition, you can expand and improve skills such as teamwork ,especially when communication in volleyballl is important, and volleyball always gets you thinking as anything can happen anytime and you will need to very quick.
+</p>
+</body>
+</head>
+ 
